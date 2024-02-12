@@ -42,4 +42,6 @@ terraform.rc
 02-workflow-orchestration/airflow/logs/
 __pycache__/
 .venv/
+env/
 *.parquet
+*.duckdb
