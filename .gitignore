@@ -45,3 +45,5 @@ __pycache__/
 env/
 *.parquet
 *.duckdb
+*.parquet.crc
+fhvhv/
